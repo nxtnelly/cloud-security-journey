@@ -1,0 +1,5 @@
+I used ifconfig to find all my network interfaces
+I used ip addr to identify my IP address
+I used ping to test my internet connectivity and DNS
+I used netstat to show open ports
+I learned that open ports can represent potential attack surfaces
