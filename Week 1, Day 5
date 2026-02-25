@@ -1,0 +1,48 @@
+Malware attack:
+Trojan, adware, spyware
+Corrupts your system with malicious viruses embedded within attachments you click on
+
+Phishing attack:
+Hacker sends fraudulent emails from what seems to be a legitimate source
+Done to install malware or steal sensitive data
+
+
+Man-in-the-middle attack:
+Hacker gains access to info between your device and the website’s server
+Hacker takes over your IP address, secretly intercepting that communication line
+Happens through unsecured wifi networks and malware
+
+Password attack:
+Your password gets cracked by using common passwords or using all possible alphabetical combinations
+
+Cybersecurity practices to prevent these four methods:
+Installing a firewall:
+Virtual wall between your computer and the internet
+Firewalls filter ingoing and outgoing traffic from your device
+
+Honeypots:
+Used to attract attackers
+Made to look vulnerable to deceive attackers
+
+Unique alpha-numeric passwords
+Antivirus software
+Avoiding mail from unknown senders
+Cyberattacks can also happen to public & private organizations, which are more deadly
+
+Attacks that companies are subjective to:
+Advanced Persistent Threat (APT):
+Hacker gains access to networks for prolonged period to continuously get confidential info
+
+Denial of Service:
+ Networks flooded with traffic, leaving actual service requests unattended
+
+Distributed Denial of Service:
+Multiple systems launch the attack
+
+SQL injection attack
+Hacker manipulates standard sql query in database driven website
+
+Job roles in cybersecurity field:
+Ethical hacker- identify network vulnerabilities to solve them
+Security architect - design robust security structures
+Chief Information Security Officer - entrusted with overall safety of information in an organization
